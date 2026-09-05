@@ -1,0 +1,6 @@
+{
+  "name": "S2Games: Super Bear Adventure & Minecraft Game For KIDS (for Elif Dua)",
+  "description": "A kid-friendly 3D voxel sandbox adventure created for Elif Dua, combining Super Bear Adventure and Minecraft with Turkish voice guidance, infinite creative blocks, friendly quests, and cheerful animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
